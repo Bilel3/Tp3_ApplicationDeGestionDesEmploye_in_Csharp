@@ -1,0 +1,5 @@
+C:\Users\Bilel\source\repos\Tp3\tp3_ClassLibrary\bin\Debug\tp3_ClassLibrary.dll
+C:\Users\Bilel\source\repos\Tp3\tp3_ClassLibrary\bin\Debug\tp3_ClassLibrary.pdb
+C:\Users\Bilel\source\repos\Tp3\tp3_ClassLibrary\obj\Debug\tp3_ClassLibrary.csprojAssemblyReference.cache
+C:\Users\Bilel\source\repos\Tp3\tp3_ClassLibrary\obj\Debug\tp3_ClassLibrary.dll
+C:\Users\Bilel\source\repos\Tp3\tp3_ClassLibrary\obj\Debug\tp3_ClassLibrary.pdb
